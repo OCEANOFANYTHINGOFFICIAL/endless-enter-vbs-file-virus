@@ -1,4 +1,4 @@
-# Disk Formatter EXE File Virus/Programme 
+# Endless Enter Button Clicker VBS File Virus
 This code will Continuously Hit Enter Button After Executing The Files. 
 <br>
 # or
