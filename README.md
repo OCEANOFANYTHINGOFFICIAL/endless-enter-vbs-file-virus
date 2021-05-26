@@ -3,9 +3,9 @@ This code will Continuously Hit Enter Button After Executing The Files.
 <br>
 # or
 <br>
-copy the following code in notepad and save that with .vbs extention
+# copy the following code in notepad and save that with .vbs extention
 
-```
+```vbs
  Set wshShell = wscript.CreateObject(”WScript.Shell”)
  do
  wscript.sleep 100
